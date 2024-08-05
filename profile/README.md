@@ -1,8 +1,7 @@
 ## WELCOME Sfermions 👋
 
 
-<img src="https://github.com/user-attachments/assets/672da30d-fdc3-493b-8395-52c60055d044" width="100" height="100">
-
+<img src="[https://github.com/user-attachments/assets/672da30d-fdc3-493b-8395-52c60055d044](https://github.com/user-attachments/assets/e8c5dff8-fc78-4694-876c-09b503f1e129)" width="400" height="400">
 <!--
 
 **Here are some ideas to get you started:**
