@@ -1,5 +1,5 @@
 ## WELCOME Spermion 👋
-![Spermion](https://github.com/user-attachments/assets/672da30d-fdc3-493b-8395-52c60055d044)
+![Spermion](https://github.com/user-attachments/assets/672da30d-fdc3-493b-8395-52c60055d044){: width="50%" height="50%"}
 
 
 <!--
